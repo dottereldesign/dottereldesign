@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="Girl in a jacket" width="50" height="50"> <img src="https://cdn.iconscout.com/icon/free/png-256/css3-9-1175237.png" alt="Girl in a jacket" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="Girl in a jacket" width="50" height="50"> 
 
 <!--
 **JamieWilsonICT/JamieWilsonICT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
