@@ -1,5 +1,6 @@
 <b>Hey, the name's Jamie!</b>
 <br>
+<b>My main focus is to create websites which are not only responsive, regardless of the device used to view them, but also accessible. </b>
 <br>
 <b>Check out my Linkedin profile below.</b>
 <br>
