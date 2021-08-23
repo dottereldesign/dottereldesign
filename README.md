@@ -1,6 +1,8 @@
-Hey, the name's <b>Jamie</b>.
+Hey, the name's Jamie.
 <br>
-My main objective is to create websites which are not only <b>responsive</b>, regardless of the device used to view them, but also <b>accessible</b>. 
+My main objective is to create websites which are not only responsive, regardless of the device used to view them, but also accessible. 
+<br>
+I hold a Diploma in Web Development and Design from the Ara institute of Canterbury. 
 <br>
 <br>
 <b>Check out my LinkedIn profile below.</b>
