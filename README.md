@@ -1,6 +1,6 @@
-<a href="https://www.linkedin.com/in/jamie-wilson-b1b8351b0/m">
+<p align="center"><a href="https://www.linkedin.com/in/jamie-wilson-b1b8351b0/m">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a></p>
 <br>
 Hey, the name's Jamie.
 <br>
