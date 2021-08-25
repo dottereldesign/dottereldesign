@@ -9,4 +9,7 @@ I hold a <b>Diploma in Web Development and Design</b> from the Ara institute of 
 Currently at Ara, I am studying a <b>Bachelor of Information and Communication Technologies</b>, specializing in Software Development.
 <br>
 <br>
+Outside of class, I am learning full stack development through <b>The Odin Project</b>.
+<br>
+<br>
 My main objective is to create websites which are not only responsive, regardless of the device used to view them, but also accessible. 
