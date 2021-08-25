@@ -6,7 +6,7 @@
 </P>
 I hold a <b>Diploma in Web Development and Design</b> from the Ara institute of Canterbury.
 <br>
-Currently at Ara, I am studying a <b>Bachelor of Information and Communication Technologies</b>.
+Currently at Ara, I am studying a <b>Bachelor of Information and Communication Technologies</b>, specializing in Software Development.
 <br>
 <br>
 My main objective is to create websites which are not only responsive, regardless of the device used to view them, but also accessible. 
