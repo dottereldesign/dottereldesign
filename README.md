@@ -6,7 +6,7 @@
 </P>
 I hold a Diploma in Web Development and Design from the Ara institute of Canterbury.
 <br>
-Currently, I am studying a Bachelor of Information and Communication Technologies at Ara, specializing in Software Development.
+I am studying a Bachelor of Information and Communication Technologies at Ara, specializing in Software Development.
 <br>
 <br>
 Outside of class, I am learning full stack development through The Odin Project.
