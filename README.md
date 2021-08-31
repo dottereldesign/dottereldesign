@@ -10,6 +10,3 @@ I am studying a Bachelor of Information and Communication Technologies at Ara, s
 <br>
 <br>
 Outside of class, I am learning full stack development through The Odin Project.
-<br>
-<br>
-My main objective is to create websites which are not only responsive, regardless of the device used to view them, but also accessible. 
