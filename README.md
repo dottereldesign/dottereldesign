@@ -1,5 +1,3 @@
-<p>“You don’t set out to build a wall. You don't say ‘I’m going to build the biggest, baddest, greatest wall that’s ever been built.’ You don’t start there. You say, ‘I’m going to lay this brick as perfectly as a brick can be laid.’ You do that every single day. And soon you have a wall.”</p>
-
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
