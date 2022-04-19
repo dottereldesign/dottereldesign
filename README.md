@@ -1,4 +1,4 @@
-<h2>Hello, the name's Jamie, and I'm an aspiring Front-end Developer from New Zealand.</h2>
+<h3>EAT, SLEEP, CODE.</h3>
 
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
