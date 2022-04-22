@@ -16,3 +16,4 @@
 <p>1. Learn JavaScript</p>
 <p>2. Learn TypeScript</p>
 <p>3. Learn React</p>
+<p>4. Complete the Foundations course of The Odin Project.</p>
