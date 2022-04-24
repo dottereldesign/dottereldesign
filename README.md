@@ -12,8 +12,20 @@
 <a href="https://www.w3.org/standards/webdesign/script.html"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="https://www.w3.org/standards/webdesign/script.html"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
 
-<h3>Goals 2022:</h3>
-<p>1. Learn JavaScript</p>
-<p>2. Learn TypeScript</p>
-<p>3. Learn React</p>
-<p>4. Complete the Foundations course of The Odin Project.</p>
+<details>
+  <summary>Goals 2022</summary>
+  
+    1. Learn JavaScript.
+    2. Learn TypeScript.
+    3. Learn React.
+    4. Complete the Foundations course of The Odin Project.
+</details>
+
+<details>
+  <summary>Goals 2021</summary>
+  
+    1. Learn SCSS.
+    2. Learn NPM.
+    3. Learn Git.
+    4. Start a Portfolio.
+</details>
