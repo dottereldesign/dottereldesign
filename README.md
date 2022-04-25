@@ -15,10 +15,11 @@
 <details>
   <summary>Goals 2022</summary>
   
-    1. Learn JavaScript.
-    2. Learn TypeScript.
-    3. Learn React.
-    4. Complete the Foundations course of The Odin Project.
+    1. Learn DOM.
+    2. Learn JavaScript.
+    3. Learn TypeScript.
+    4. Learn React.
+    5. Complete the Foundations course of The Odin Project.
 </details>
 
 <details>
