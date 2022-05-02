@@ -20,6 +20,7 @@
     3. Learn TypeScript.
     4. Learn React.
     5. Complete the Foundations course of The Odin Project.
+    6. Look into VIM.
 </details>
 
 <details>
