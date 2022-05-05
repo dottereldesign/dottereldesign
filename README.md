@@ -30,4 +30,5 @@
     2. Learn NPM.
     3. Learn Git.
     4. Start a Portfolio.
+    5. Implement BEM.
 </details>
