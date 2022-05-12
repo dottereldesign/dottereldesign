@@ -15,7 +15,7 @@
 <details>
   <summary>Goals 2022</summary>
   
-    1. Learn DOM.
+    1. Setup an AWS Server.
     2. Learn JavaScript.
     3. Learn TypeScript.
     4. Learn React.
