@@ -1,5 +1,6 @@
-<h3>Eat, sleep, code.</h3>
-
+<h1>Jamie Wilson</h1>
+<h3>Christchurch, New Zealand</h3>
+<h3>Front-end Developer</h3>
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/></a>
@@ -11,7 +12,7 @@
 <a href="https://www.w3.org/standards/webdesign/htmlcss.html"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="https://www.w3.org/standards/webdesign/script.html"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
 <a href="https://www.w3.org/standards/webdesign/script.html"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-
+<h4>Eat, sleep, code.</h4>
 <details>
   <summary>Goals 2022</summary>
   
@@ -19,7 +20,7 @@
     2. Learn JavaScript.
     3. Learn TypeScript.
     4. Learn React.
-    5. Complete the Foundations course of The Odin Project.
+    5.Complete the Foundations course of The Odin Project.
     6. Look into VIM.
 </details>
 
@@ -32,3 +33,5 @@
     4. Start a Portfolio.
     5. Implement BEM.
 </details>
+
+
