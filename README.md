@@ -24,6 +24,7 @@
     4. Learn React.
     5. Complete the Foundations course of The Odin Project.
     6. Look into VIM.
+    7. Finish the Portfolio
 </details>
 
 <details>
