@@ -25,6 +25,7 @@
     5. Complete the Foundations course of The Odin Project.
     6. Look into VIM or or NeoVim.
     7. Deploy 3+ websites on AWS using a LAMP stack.
+    8. Try BootStrap and Tailwind.
 </details>
 
 <details>
