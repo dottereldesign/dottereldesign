@@ -18,24 +18,24 @@
 <details>
   <summary>Goals 2022</summary>
   
-    1. Setup an AWS Server.
+    1. COMPLETED - Setup an AWS Server.
     2. Learn JavaScript.
     3. Learn TypeScript.
     4. Learn React.
-    5. Complete the Foundations course of The Odin Project.
-    6. Look into VIM or or NeoVim.
-    7. Deploy 3+ websites on AWS using a LAMP stack.
-    8. Try BootStrap and Tailwind.
+    5. COMPLETED - Complete the Foundations course of The Odin Project.
+    6. COMPLETED - Look into VIM or or NeoVim.
+    7. COMPLETED - Deploy 3+ websites on AWS using a LAMP stack.
+    8. COMPLETED - Try BootStrap and Tailwind.
 </details>
 
 <details>
   <summary>Goals 2021</summary>
   
-    1. Learn SCSS.
-    2. Learn NPM.
-    3. Learn Git.
-    4. Start a Portfolio.
-    5. Implement BEM.
+    1. COMPLETED - Learn SCSS.
+    2. COMPLETED - Learn NPM.
+    3. COMPLETED - Learn Git.
+    4. COMPLETED - Start a Portfolio.
+    5. COMPLETED - Implement BEM.
 </details>
 <i>"The only person you are destined to become is the person you decide to be." —Ralph Waldo Emerson</i>
 
