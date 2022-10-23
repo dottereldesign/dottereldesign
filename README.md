@@ -1,5 +1,5 @@
 <h1>Hi, I'm Jamie!</h1>
-<p>I'm an aspiring Front-end Developer and JavaScript enthusiast based in Christchurch, and I love to build things that live on the internet. I am currently looking for an entry level web developer role or an internship.
+<p>I'm a Front-end Developer and JavaScript enthusiast based in Christchurch, and I love to build things that live on the internet. I am currently looking for an entry level web developer role or an internship.
 <h3>Technologies & Tools</h3>
 
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
