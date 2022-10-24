@@ -1,5 +1,7 @@
-<p>From building roads to writing code. Hey, I'm Jamie. Checkout my portfolio below or feel free to message me for help.
-<h3>Technologies & Tools</h3>
+<h3>About me</h3>
+<h4>From Building Roads to Writing Code</h3>
+<p>Hey, I'm Jamie. I design and build cool things that live on the internet. Before this, I pursued a career in civil construction where I helped to rebuild the CBD after the Canterbury earthquakes.</p>
+<h4>Technologies & Tools</h4>
 
 <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/></a>
