@@ -1,6 +1,6 @@
 <h2>A B O U T‎ ‎ ‎ M E</h3>
 <h3>From Building Roads to Writing Code</h3>
-<p>Hey, I'm Jamie. I design and build cool things that live on the internet. Before this, I pursued a career in civil construction where I helped to rebuild the CBD after the Canterbury earthquakes.</p>
+<p>Hey, I'm Jamie. I design and build cool things that live on the internet. Before this, I pursued a career in civil construction where I helped to rebuild the CBD after the Christchurch earthquakes.</p>
 <h3>Front-end Developer</h3>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
