@@ -1,8 +1,8 @@
-<h6>Front-end Developer / UI Designer</h6>
+<h6>From Building Roads to Writing Code</h6>
 <h2>A B O U T‎ ‎ ‎ M E</h3>
-<h3>From Building Roads to Writing Code</h3>
+<h3>My Story</h3>
 <p>Hey, I'm Jamie, I design and build cool things that live on the internet. Before this, I pursued a career in civil construction where I helped to rebuild the CBD after the Christchurch city earthquakes.</p>
-<h3>Tools of Trade</h3>
+<h3>Technologies</h3>
 <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/></a>
