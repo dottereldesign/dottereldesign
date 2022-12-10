@@ -7,4 +7,4 @@
 <a href="#"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a> -->
 
 <h2 align="center">P  R  O  J  E  C  T  S   ‎ ‎ ‎   B  E  L  O  W</h2>
-<h6 align="right">HTML‎ ‎ ‎ ‎ ‎ ‎ CSS‎ ‎ ‎ ‎ ‎ ‎ SCSS‎ ‎ ‎ ‎ ‎ ‎  JavaScript‎ ‎ ‎ ‎ ‎ ‎  Figma‎ ‎ ‎ ‎ ‎ ‎  Photoshop</h6>
+<h6 align="right">HTML‎ ‎ ‎ ‎ ‎ ‎ CSS‎ ‎ ‎ ‎ ‎ ‎ SCSS‎ ‎ ‎ ‎ ‎ ‎  JavaScript‎ ‎ ‎ ‎ ‎ ‎  Figma</h6>
