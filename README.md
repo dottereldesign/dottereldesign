@@ -1,4 +1,3 @@
-Jamie Wilson
-Christchurch, New Zealand
+Hello, I'm Jamie.
 
 
