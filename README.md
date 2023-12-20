@@ -1,3 +1,1 @@
 Hello! I'm Jamie, a web developer passionate about crafting user-friendly digital experiences. I focus on creating accessible and efficient interfaces, and I enjoy the problem-solving aspects of web development. My journey in this field began with a Diploma in Web Development & Design from the Ara Institute of Canterbury, which I completed in 2021. Currently, I'm furthering my skills through a Bachelor's Degree in Software Development.
-
-I believe in the power of teamwork and continuous learning, and I'm always open to collaborating on projects that challenge me to grow. If you'd like to connect or discuss potential projects, please feel free to contact me at howemanning@gmail.com.
