@@ -1,1 +1,10 @@
-Hello! I'm Jamie, a web developer passionate about crafting user-friendly digital experiences. I focus on creating accessible and efficient interfaces, and I enjoy the problem-solving aspects of web development. My journey in this field began with a Diploma in Web Development & Design from the Ara Institute of Canterbury, which I completed in 2021. Currently, I'm furthering my skills through a Bachelor's Degree in Software Development.
+<dl>
+  <dt>Ara Institute of Canterbury</dt>
+  <dd>2020 Certificate in IT Essentials</dd>
+
+  <dt>Ara Institute of Canterbury</dt>
+  <dd>2021 Diploma in Web Development & Design</dd>
+
+  <dt>Ara Institute of Canterbury</dt>
+  <dd>2024 Bachelor's Degree in ICT</dd>
+</dl>
