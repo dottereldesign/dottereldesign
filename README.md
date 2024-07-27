@@ -7,8 +7,4 @@
   
   <dt>Ara Institute of Canterbury</dt>
   <dd>2020 Certificate in IT Essentials</dd>
-
-
-
-
 </dl>
