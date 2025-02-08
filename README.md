@@ -1,4 +1,4 @@
-## www.jamiewilson.app (in progress, busy building mobile app)
+## www.jamiewilson.app (in progress)
 
 <dl>
   <dt>Ara Institute of Canterbury</dt>
