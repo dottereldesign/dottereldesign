@@ -1,14 +1,7 @@
-## www.jamiewilson.app (in progress)
-
 <dl>
-  <dt>Ara Institute of Canterbury</dt>
-  <dd>2024 Bachelor's Degree in Software Development</dd>
-  
-  <dt>Ara Institute of Canterbury</dt>
-  <dd>2021 Diploma in Web Development & Design</dd>
-  
-  <dt>Ara Institute of Canterbury</dt>
-  <dd>2020 Certificate in IT Essentials</dd>
+  <dd>Bachelor's Degree in Software Development</dd>
+  <dd>Diploma in Web Development & Design</dd>
+  <dd>Certificate in IT Essentials</dd>
 </dl>
 
 
