@@ -12,9 +12,9 @@ I’m especially passionate about full-stack development, building MVPs for star
 
 ## Projects
 
-[Human vs the World](https://dottereldesign.github.io/human-vs-the-world/)
+[Warcraft III - Human vs the World](https://dottereldesign.github.io/human-vs-the-world/)
 
-[Animated Day/Night Toggle](https://dottereldesign.github.io/animated-day-night-toggle/)
+[Animation - Day/Night Toggle](https://dottereldesign.github.io/animated-day-night-toggle/)
 
 <!-- Future projects / client sites -->
 
