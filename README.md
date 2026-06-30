@@ -2,7 +2,7 @@
 
 I build polished websites, interactive front-end experiences, and AI-assisted digital tools across modern web technologies.
 
-My work combines design sense, front-end development, CMS experience, and practical AI-assisted workflows. I’m comfortable taking rough content, designs, or ideas and turning them into clear, usable, professional digital experiences.
+My work combines design sense, front-end development, CMS experience, Codex, and practical AI-assisted workflows. I’m comfortable taking rough content, designs, or ideas and turning them into clear, usable, professional digital experiences.
 
 I work with HTML, CSS, JavaScript, Git, Figma, WordPress, Gutenberg, Divi, Elementor, LocalWP, and AI development tools. I’m especially interested in roles that combine web development, interface design, automation, AI tools, and creative problem-solving.
 
