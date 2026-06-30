@@ -1,6 +1,6 @@
 # Jamie Wilson
 
-I build polished websites, interactive front-end experiences, and AI-assisted digital tools across modern web technologies.
+I build websites, interactive front-end experiences, and AI-assisted digital tools across modern web technologies.
 
 My work combines design sense, front-end development, CMS experience, Codex, and practical AI-assisted workflows. I’m comfortable taking rough content, designs, or ideas and turning them into clear, usable, professional digital experiences.
 
