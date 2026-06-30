@@ -15,3 +15,9 @@
 <!-- [Wairarapa Cobham Intermediate](https://www.cobham.school.nz/) -->
 
 <!-- [Darfield High School](https://www.darfield.school.nz/) -->
+
+<!-- [Royal Society of Canterbury](https://www.royalsocietycanterbury.org.nz/) -->
+
+<!-- [Lighthouse Trust](https://www.lighthousetrust.co.nz/) -->
+
+<!-- [Hail](https://get.hail.to/) -->
