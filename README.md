@@ -1,13 +1,10 @@
 # Jamie Wilson
 
+I enjoy taking rough ideas, designs, content
+and turning them into a digital experience.
 
-
-I love taking rough ideas, designs, or content and 
-turning them into a digital experience.
-
-## I build solutions.
 Automation, AI, Creative Design
-
+I build solutions.
 
 ## Currently Exploring
 
