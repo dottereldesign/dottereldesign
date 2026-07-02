@@ -2,17 +2,11 @@
 
 
 
-I love taking 
-##rough content, 
-##designs, or 
-##ideas and 
-turning them into a digital experiences.
-
-
+I love taking rough ideas, designs, or content and 
+turning them into a digital experience.
 
 ## I build solutions.
-
-Automation, AI tools, Creative Design
+Automation, AI, Creative Design
 
 
 ## Currently Exploring
