@@ -1,14 +1,10 @@
 # Jamie Wilson
 
-I enjoy taking rough ideas, designs, and content, then turning them into polished digital experiences.
+Rough ideas, loose designs, messy content — I turn them into polished digital experiences.
 
-I build solutions across automation, AI, creative design, and modern web development.
+Creative Design. Automation. AI.
 
-## Currently Exploring
-
-* Building MVPs for startups
-* Web animations and interactive front-end experiences
-* The intersection of AI and psychology
+I build solutions.
 
 
 ## Projects
