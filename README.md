@@ -1,14 +1,23 @@
 # Jamie Wilson
 
-I build solutions.
 
-I’m comfortable taking rough content, designs, or ideas and turning them into clear, usable, professional digital experiences.
 
-I’m especially interested in roles that combine web development, interface design, automation, AI tools, and creative problem-solving.
+I love taking 
+##rough content, 
+##designs, or 
+##ideas and 
+turning them into a digital experiences.
+
+
+
+## I build solutions.
+
+Automation, AI tools, Creative Design
+
 
 ## Currently Exploring
 
-I’m especially passionate about full-stack development, building MVPs for startups, web animations, and the intersection of AI and Psychology. These are the areas I’m currently spending most of my time learning, experimenting with, and building around.
+Building MVPs for startups, web animations, and learning about the intersection of AI and Psychology.
 
 ## Projects
 
