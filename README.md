@@ -1,8 +1,5 @@
 # Jamie Wilson
 
-Rough ideas, loose designs, messy content - I turn them into polished digital experiences.
-
-I build modern.
 Creative Design. Automation. AI.
 
 
